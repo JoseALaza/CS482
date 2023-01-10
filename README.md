@@ -1,5 +1,5 @@
 # CS482
-Data Mining
+<a href="/cs634/docs/" class="active"><strong>Data Mining</strong></a>
 
 <div id="course_syllabus" style="margin-bottom: 10px;" class="user_content enhanced">
   <h2 id="books">Books</h2>
